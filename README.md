@@ -1,6 +1,4 @@
-Sure, here's a sample README file for your GitHub repository:
 
----
 
 # Face Tracking Robotic Arm
 
@@ -57,4 +55,3 @@ This project is a face tracking robotic arm developed using OpenCV, Arduino, and
 ## Author
 - Ansh Sharma
 
-Feel free to customize it further based on your specific project details and preferences!
