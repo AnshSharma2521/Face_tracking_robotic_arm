@@ -29,7 +29,7 @@ This project is a face tracking robotic arm developed using OpenCV, Arduino, and
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/face-tracking-robotic-arm.git
+    git clone https://github.com/AnshSharma2521/Face_tracking_robotic_arm.git
     ```
 
 2. Install the required Python dependencies:
