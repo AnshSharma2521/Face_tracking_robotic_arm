@@ -5,10 +5,10 @@
 ## Introduction:
 This project is a face tracking robotic arm developed using OpenCV, Arduino, and PyFirmata. The purpose of this project is to demonstrate how computer vision techniques can be integrated with robotics to create an interactive system capable of tracking and following human faces in real-time.
 
-![IMG1](Img2.jpg)
+<img src="Img2.jpg" alt="Girl in a jacket" width="400" height="500">
 
 
-![IMG2](img1.png)
+<img src="img1.png" alt="Girl in a jacket" width="600" height="400">
 
 ## Features:
 - Real-time face detection and tracking using OpenCV.
